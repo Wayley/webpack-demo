@@ -23,10 +23,9 @@
     "url": "https://github.com/Wayley/webpack-demo/issues"
   },
   "homepage": "https://github.com/Wayley/webpack-demo#readme",
-  "dependencies": {
-    "chalk": "^4.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "chalk": "^4.1.1",
     "webpack": "^5.37.0",
     "webpack-cli": "^4.7.0"
   }

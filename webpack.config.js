@@ -11,4 +11,7 @@ module.exports = {
     clean: true,
   },
   target: 'node',
+  externals: {
+    chalk: 'commonjs2 chalk',
+  },
 };
